@@ -1,0 +1,1 @@
+如果报ssl错误就pip install openpyxl -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
